@@ -210,8 +210,8 @@ If you use this work, please cite:
 ## Author
 
 **Saibharghav Pokala**
-MSc Big Data & HPC, University of Liverpool
-PhD Preparatory Research, University of Birmingham
+MSc DataScience & AI, University of Liverpool
+
 
 ---
 
