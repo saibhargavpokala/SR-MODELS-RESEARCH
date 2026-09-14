@@ -209,7 +209,7 @@ If you use this work, please cite:
 
 ## Author
 
-**Naga Sri Ram Kochetti**
+**Saibharghav Pokala**
 MSc Big Data & HPC, University of Liverpool
 PhD Preparatory Research, University of Birmingham
 
