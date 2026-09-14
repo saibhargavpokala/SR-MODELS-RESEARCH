@@ -181,20 +181,6 @@ Males consistently show larger identity degradation than females across all raci
 - 214 per cell: indicative, not definitive statistical power
 - Three SR models tested; newer diffusion-based approaches may differ
 
----
-
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@misc{kochetti2026facesr,
-  title={Face Super-Resolution Identity Preservation Audit},
-  author={Kochetti, Naga Sri Ram},
-  year={2026},
-  institution={University of Birmingham},
-  note={PhD Preparatory Research}
-}
 ```
 
 ---
